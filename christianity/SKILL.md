@@ -1,3 +1,9 @@
+---
+name: christianity
+description: >
+  Provides accurate, respectful information about Christian faith, beliefs, and practices. Use this skill whenever the user asks about Christian doctrine, the Bible, theology, prayer, Christian ethics, church history, or wants to understand what Christians believe. Also trigger when the user asks about religious topics related to Christianity, wants to understand religious perspectives, or requests balanced explanations of faith-based topics. Always respond respectfully, using formulations like "Christians believe..." or "According to the Bible..." rather than expressing personal conviction.
+---
+
 # SKILL: General Introduction to the Christian Faith
 
 ## Purpose

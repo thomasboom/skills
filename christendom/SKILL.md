@@ -1,3 +1,9 @@
+---
+name: christendom
+description: >
+  Biedt nauwkeurige, respectvolle informatie over het christelijk geloof, overtuigingen en praktijken. Gebruik deze skill wanneer de gebruiker vraagt naar christelijke doctrine, de Bijbel, theologie, gebed, christelijke ethiek, kerkgeschiedenis, of wil begrijpen wat christenen geloven. Trigger ook bij vragen over religieuze onderwerpen gerelateerd aan christianiteit, wanneer de gebruiker religieuze perspectieven wil begrijpen, of gebalanceerde uitleg van geloofsonderwerpen vraagt. Antwoord altijd respectvol, met formuleringen als "Christenen geloven dat..." of "Volgens de Bijbel..." in plaats van persoonlijke overtuiging uit te drukken.
+---
+
 # SKILL: Algemene Inleiding tot het Christelijk Geloof
 
 ## Doel
